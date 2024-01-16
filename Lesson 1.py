@@ -33,7 +33,7 @@ marta_friends = ['Victoria', 'Lorena', 'John']
 print(john_friends)
 print(marta_friends)
 
-# Create a list with people's names, some names should be repeated in it
-people = {'Austin', 'Gabriel', 'Gregory', 'Austin'}
+# Create a list with people's names, some names should be repeated in it. Turn a list of duplicate names into a list of unique names using sets.
+people = ['Austin', 'Anna', 'Gabriel', 'Gregory', 'Austin', 'Anna']
 
-print(people)
+print(set(people))
