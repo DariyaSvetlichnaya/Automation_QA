@@ -1,4 +1,3 @@
-# User's input in Celsius
 celsius = float(input('Please enter temperature in Celsius: '))
 
 # Converting to Fahrenheit
