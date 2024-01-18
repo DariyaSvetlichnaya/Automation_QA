@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="Homework for the Lesson 1">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +12,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature_1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -43,6 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Calculator.executor": "Run",
+    "Python.Lesson 1.executor": "Run",
+    "Python.Task 1: Temperature.executor": "Run",
+    "Python.Temperature.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,7 +113,87 @@
       <option name="project" value="LOCAL" />
       <updated>1705353422274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework for the Lesson 1 with changes">
+      <option name="closed" value="true" />
+      <created>1705424301142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705424301142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson 1/Task 1">
+      <option name="closed" value="true" />
+      <created>1705440921058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705440921058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705588892490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705588892490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705588927088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705588927088</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705589124541</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589124541</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705589198248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589198248</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705589362562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705589362562</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Lesson 1/Task 2">
+      <option name="closed" value="true" />
+      <created>1705593854980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705593854980</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1705594425856</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705594425856</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1705594795668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705594795668</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +207,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="feature_1" />
                       </list>
                     </value>
                   </entry>
@@ -125,6 +221,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework for the Lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework for the Lesson 1" />
+    <MESSAGE value="Homework for the Lesson 1 with changes" />
+    <MESSAGE value="Lesson 1/Task 1" />
+    <MESSAGE value="Lesson 1/Task 2" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Lesson 1.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
