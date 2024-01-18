@@ -2,7 +2,7 @@
 number_1 = int(input('Enter the first number: '))
 number_2 = int(input('Enter the second number: '))
 
-#Select the operator
+# Select the operator
 operation = input('''
 Please type in the math operation you would like to complete:
 + for addition
@@ -11,7 +11,7 @@ Please type in the math operation you would like to complete:
 / for division
 ''')
 
-#Counting
+# Counting
 if operation == '+':
     print('{} + {} = '.format(number_1, number_2))
     print(number_1 + number_2)
