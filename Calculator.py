@@ -13,21 +13,17 @@ Please type in the math operation you would like to complete:
 
 # Counting
 if operation == '+':
-    print('{} + {} = '.format(number_1, number_2))
-    print(number_1 + number_2)
+    print("The result is: ", (number_1 + number_2))
 
 elif operation == '-':
-    print('{} - {} = '.format(number_1, number_2))
-    print(number_1 - number_2)
+    print("The result is: ", (number_1 - number_2))
 
 elif operation == '*':
-    print('{} * {} = '.format(number_1, number_2))
-    print(number_1 * number_2)
+    print("The result is: ", (number_1 * number_2))
 
 elif operation == '/':
     if number_2 != 0:
-        print('{} / {} = '.format(number_1, number_2))
-        print(number_1 / number_2)
+        print("The result is: ", (number_1 / number_2))
     else:
         print("Sorry, cannot divide by 0")
 
