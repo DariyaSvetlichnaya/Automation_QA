@@ -29,7 +29,7 @@ elif operation == '/':
         print('{} / {} = '.format(number_1, number_2))
         print(number_1 / number_2)
     else:
-        print("Cannot divide by 0")
+        print("Sorry, cannot divide by 0")
 
 else:
-    print('You have not typed a valid operator, please run the program again.')
+    print('Not valid operator is entered. Please run the program again.')
