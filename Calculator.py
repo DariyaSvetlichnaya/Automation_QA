@@ -32,4 +32,4 @@ elif operation == '/':
         print("Sorry, cannot divide by 0")
 
 else:
-    print('Not valid operator is entered. Please run the program again.')
+    print('Not a valid operator is entered. Please run the program again.')
