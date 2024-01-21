@@ -1,0 +1,87 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"a0e597f9-675e-49ad-8f63-c21dc92957b1\" name=\"Changes\" comment=\"1st commit in feature_1\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"feature_1\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n    \"state\": \"OPEN\",\n    \"assignee\": \"DariyaSvetlichnaya\"\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"a94653d4-77a8-4614-a66d-7d3ae8723b5e\" />\n        <option name=\"url\" value=\"https://github.com/DariyaSvetlichnaya/Automation_QA.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectColorInfo\"><![CDATA[{\n  \"associatedIndex\": 3\n}]]></component>\n  <component name=\"ProjectId\" id=\"2av1dPH7PKRfmiPgqTMeBPumVyH\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Python.Calculator.executor\": \"Run\",\n    \"Python.Lesson 1.executor\": \"Run\",\n    \"Python.Task 1: Temperature.executor\": \"Run\",\n    \"Python.Temperature.executor\": \"Run\",\n    \"Python.main.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"feature__1\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Lesson 2\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"Lesson 1\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"Automation_QA\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Lesson 1.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"a0e597f9-675e-49ad-8f63-c21dc92957b1\" name=\"Changes\" comment=\"\" />\n      <created>1705184325891</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1705184325891</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Homework for the Lesson 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705353422274</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705353422274</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Homework for the Lesson 1 with changes\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705424301142</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705424301142</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Lesson 1/Task 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705440921058</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705440921058</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705588892490</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705588892490</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705588927088</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705588927088</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705589124541</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705589124541</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705589198248</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705589198248</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705589362562</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705589362562</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Lesson 1/Task 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705593854980</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705593854980</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"test\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705594425856</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705594425856</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"test\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705594795668</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705594795668</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"test\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705595177544</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705595177544</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"test\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705678748894</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705678748894</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"1st commit in feature_1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705680012443</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705680012443</updated>\n    </task>\n    <task id=\"LOCAL-00015\" summary=\"1st commit in feature_1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1705680092060</created>\n      <option name=\"number\" value=\"00015\" />\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1705680092060</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"16\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Homework for the Lesson 1\" />\n    <MESSAGE value=\"Homework for the Lesson 1 with changes\" />\n    <MESSAGE value=\"Lesson 1/Task 1\" />\n    <MESSAGE value=\"Lesson 1/Task 2\" />\n    <MESSAGE value=\"test\" />\n    <MESSAGE value=\"1st commit in feature_1\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"1st commit in feature_1\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/Lesson 1.py</url>\n          <line>36</line>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f6e3ad3c40a9930bc728ed98bfcdafdc2a1f09c8)
++++ b/.idea/workspace.xml	(date 1705685353962)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="1st commit in feature_1">
++    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="fix for int and file names">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -59,6 +59,7 @@
+     "Python.Lesson 1.executor": "Run",
+     "Python.Task 1: Temperature.executor": "Run",
+     "Python.Temperature.executor": "Run",
++    "Python.calculator.executor": "Run",
+     "Python.main.executor": "Run",
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+@@ -71,7 +72,7 @@
+     </key>
+   </component>
+   <component name="RunManager">
+-    <configuration name="Lesson 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
++    <configuration name="lesson 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+       <module name="Automation_QA" />
+       <option name="ENV_FILES" value="" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+@@ -84,7 +85,7 @@
+       <option name="IS_MODULE_SDK" value="true" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 1.py" />
++      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson 1.py" />
+       <option name="PARAMETERS" value="" />
+       <option name="SHOW_COMMAND_LINE" value="false" />
+       <option name="EMULATE_TERMINAL" value="false" />
+@@ -230,7 +231,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1705680092060</updated>
+     </task>
+-    <option name="localTasksCounter" value="16" />
++    <task id="LOCAL-00016" summary="1st commit in feature_1">
++      <option name="closed" value="true" />
++      <created>1705680654491</created>
++      <option name="number" value="00016" />
++      <option name="presentableId" value="LOCAL-00016" />
++      <option name="project" value="LOCAL" />
++      <updated>1705680654491</updated>
++    </task>
++    <task id="LOCAL-00017" summary="fix for int and file names">
++      <option name="closed" value="true" />
++      <created>1705684318326</created>
++      <option name="number" value="00017" />
++      <option name="presentableId" value="LOCAL-00017" />
++      <option name="project" value="LOCAL" />
++      <updated>1705684318326</updated>
++    </task>
++    <option name="localTasksCounter" value="18" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -251,13 +268,14 @@
+     <MESSAGE value="Lesson 1/Task 2" />
+     <MESSAGE value="test" />
+     <MESSAGE value="1st commit in feature_1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="1st commit in feature_1" />
++    <MESSAGE value="fix for int and file names" />
++    <option name="LAST_COMMIT_MESSAGE" value="fix for int and file names" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+       <breakpoints>
+         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+-          <url>file://$PROJECT_DIR$/Lesson 1.py</url>
++          <url>file://$PROJECT_DIR$/lesson 1.py</url>
+           <line>36</line>
+           <option name="timeStamp" value="2" />
+         </line-breakpoint>
