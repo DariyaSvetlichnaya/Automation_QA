@@ -1,6 +1,6 @@
 # Prompt to input numbers
-number_1 = int(input('Enter the first number: '))
-number_2 = int(input('Enter the second number: '))
+number_1 = float(input('Enter the first number: '))
+number_2 = float(input('Enter the second number: '))
 
 # Select the operator
 operation = input('''
