@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="Shopping list 1st commit">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="Shopping list 4st commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 3/Shopping list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 3/shopping_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +240,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705874143863</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Shopping list 2st commit">
+      <option name="closed" value="true" />
+      <created>1705963935664</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1705963935664</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Shopping list 4st commit">
+      <option name="closed" value="true" />
+      <created>1705964622940</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1705964622940</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +278,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="1st commit in feature_1" />
     <MESSAGE value="Shopping list 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Shopping list 1st commit" />
+    <MESSAGE value="Shopping list 2st commit" />
+    <MESSAGE value="Shopping list 4st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shopping list 4st commit" />
   </component>
 </project>
