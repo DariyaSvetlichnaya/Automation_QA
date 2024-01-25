@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="last commit">
-      <change beforePath="$PROJECT_DIR$/lesson 4/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 4/intersection.py" afterDir="false" />
-    </list>
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="last commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +59,7 @@
     "Python.Temperature.executor": "Run",
     "Python.main.executor": "Run",
     "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -219,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706219184229</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="last commit">
+      <option name="closed" value="true" />
+      <created>1706219581190</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706219581190</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
