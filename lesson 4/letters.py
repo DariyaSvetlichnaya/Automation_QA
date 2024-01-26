@@ -5,15 +5,11 @@ letters = input("Please, enter your name and surname: ")
 count = {}
 
 # Counting letters
-for l in letters:
+for t in letters:
     # Skip counting spaces
-    if l == ' ':
+    if t == ' ':
         continue
-    count[l] = count.get(l, 0) + 1
+    count[t] = count.get(t, 0) + 1
 
 # Print the result
 print(count)
-
-
-
-
