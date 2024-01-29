@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="last commit">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_21_01_2024,_22_39_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_21_01_2024__22_39__Changes_.xml" beforeDir="false" />
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="square numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Python.Lesson 1.executor": "Run",
     "Python.Task 1: Temperature.executor": "Run",
     "Python.Temperature.executor": "Run",
+    "Python.advanced_calculator.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.letters.executor": "Run",
     "Python.main.executor": "Run",
@@ -300,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706284075721</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="square numbers">
+      <option name="closed" value="true" />
+      <created>1706564996090</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1706564996090</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +340,8 @@
     <MESSAGE value="Lesson 1/Task 2" />
     <MESSAGE value="test" />
     <MESSAGE value="last commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit" />
+    <MESSAGE value="square numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="square numbers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
