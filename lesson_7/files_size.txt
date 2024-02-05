@@ -1,0 +1,6 @@
+new_costs.json,1709
+departments.json,1178
+size.py,994
+sum.py,534
+departments.py,1139
+files_size.txt,104
