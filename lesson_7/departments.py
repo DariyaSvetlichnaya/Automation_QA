@@ -21,7 +21,7 @@ def update_salaries(data):
         income = department['income']
         if expenses < income:
             for employee in department['employees']:
-                employee['salary'] *= 1.1
+                employee['salary'] = round(employee['salary'] * 1.1, 2)
     return data
 
 

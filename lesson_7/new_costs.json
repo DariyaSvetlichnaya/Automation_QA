@@ -7,12 +7,12 @@
             "employees": [
                 {
                     "id": 1,
-                    "salary": 110.00000000000001,
+                    "salary": 110.0,
                     "level": "senior"
                 },
                 {
                     "id": 2,
-                    "salary": 121.00000000000001,
+                    "salary": 121.0,
                     "level": "senior"
                 },
                 {
@@ -22,7 +22,7 @@
                 },
                 {
                     "id": 4,
-                    "salary": 121.00000000000001,
+                    "salary": 121.0,
                     "level": "Lead"
                 }
             ]
@@ -61,7 +61,7 @@
             "employees": [
                 {
                     "id": 11,
-                    "salary": 110.00000000000001,
+                    "salary": 110.0,
                     "level": "junior"
                 }
             ]
