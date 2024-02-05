@@ -67,6 +67,7 @@
     "Python.names.executor": "Run",
     "Python.none.executor": "Run",
     "Python.square_numbers.executor": "Run",
+    "Python.sum.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_6.executor": "Run",
@@ -359,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706632987607</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="extra calc">
+      <option name="closed" value="true" />
+      <created>1707000251147</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1707000251147</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
