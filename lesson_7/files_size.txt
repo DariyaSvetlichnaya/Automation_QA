@@ -1,6 +1,6 @@
-new_costs.json,1709
-departments.json,1178
-size.py,994
-sum.py,534
-departments.py,1139
-files_size.txt,104
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/new_costs.json,1709
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/departments.json,1178
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/size.py,1289
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/sum.py,534
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/departments.py,1139
+/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/files_size.txt,435
