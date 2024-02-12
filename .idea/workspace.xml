@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="get size">
-      <change afterPath="$PROJECT_DIR$/lesson_7/decorator.py" afterDir="false" />
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="decorator">
+      <change afterPath="$PROJECT_DIR$/lesson_7/generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/departments.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/departments.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/departments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/files_size.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/files_size.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/new_costs.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/new_costs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/size.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/size.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +61,10 @@
     "Python.Task 1: Temperature.executor": "Run",
     "Python.Temperature.executor": "Run",
     "Python.advanced_calculator.executor": "Run",
+    "Python.decorator.executor": "Run",
     "Python.departments.executor": "Run",
     "Python.functions.executor": "Run",
+    "Python.generator.executor": "Run",
     "Python.letters.executor": "Run",
     "Python.main.executor": "Run",
     "Python.names.executor": "Run",
@@ -424,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707223895796</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="decorator">
+      <option name="closed" value="true" />
+      <created>1707690224767</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1707690224767</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -464,7 +468,8 @@
     <MESSAGE value="task 2 fixes" />
     <MESSAGE value="fix for salary" />
     <MESSAGE value="get size" />
-    <option name="LAST_COMMIT_MESSAGE" value="get size" />
+    <MESSAGE value="decorator" />
+    <option name="LAST_COMMIT_MESSAGE" value="decorator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
