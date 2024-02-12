@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="decorator">
-      <change afterPath="$PROJECT_DIR$/lesson_7/generator.py" afterDir="false" />
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="generator">
+      <change afterPath="$PROJECT_DIR$/lesson_7/time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Python.task_2.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.time.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -428,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707690224767</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="generator">
+      <option name="closed" value="true" />
+      <created>1707767248093</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1707767248094</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +478,8 @@
     <MESSAGE value="fix for salary" />
     <MESSAGE value="get size" />
     <MESSAGE value="decorator" />
-    <option name="LAST_COMMIT_MESSAGE" value="decorator" />
+    <MESSAGE value="generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="generator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
