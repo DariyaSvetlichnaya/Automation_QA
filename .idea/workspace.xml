@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="time">
-      <change afterPath="$PROJECT_DIR$/lesson_7/fibonacci.py" afterDir="false" />
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="fibonacci">
+      <change afterPath="$PROJECT_DIR$/lesson_8/bank_account.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Python.Task 1: Temperature.executor": "Run",
     "Python.Temperature.executor": "Run",
     "Python.advanced_calculator.executor": "Run",
+    "Python.bank_account.executor": "Run",
     "Python.count_time.executor": "Run",
     "Python.decorator.executor": "Run",
     "Python.departments.executor": "Run",
@@ -447,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707774226942</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fibonacci">
+      <option name="closed" value="true" />
+      <created>1707844546826</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1707844546826</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -490,7 +499,8 @@
     <MESSAGE value="decorator" />
     <MESSAGE value="generator" />
     <MESSAGE value="time" />
-    <option name="LAST_COMMIT_MESSAGE" value="time" />
+    <MESSAGE value="fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
