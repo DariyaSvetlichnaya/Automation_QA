@@ -12,3 +12,6 @@ class Polygon(Shapes):
     # Polymorphism
     def area(self):
         return "Cannot calculate area of a generic polygon."
+
+
+
