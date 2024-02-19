@@ -7,6 +7,11 @@ class Rectangle(Polygon):
         self.length = length
         self.width = width
 
-    # Encapsulation: Area is calculated internally without exposing details
+    # Encapsulation
     def area(self):
         return self.length * self.width
+
+
+rectangle = Rectangle("Rectangle", 6, 4)
+print(rectangle.display_info())
+print("Area:", rectangle.area())

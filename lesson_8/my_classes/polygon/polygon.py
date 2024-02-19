@@ -9,6 +9,6 @@ class Polygon(Shapes):
     def display_info(self):
         return f"{self.name} - Sides: {self.sides}"
 
-    # Polymorphism: Same method name but different implementation
+    # Polymorphism
     def area(self):
         return "Cannot calculate area of a generic polygon."
