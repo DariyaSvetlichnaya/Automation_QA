@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="my classes">
-      <change afterPath="$PROJECT_DIR$/homework_9/train.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 2/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 2/temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/temperature.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 3/shopping_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_3/shopping_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/home.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/intersection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/none.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/none.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/advanced_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/advanced_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_5/square_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/square_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/departments.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/departments.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/departments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/files_size.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/files_size.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/new_costs.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/new_costs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/size.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/size.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/count_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/count_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/decorator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_7/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/bank_account.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/polygon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/rectangler.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/rectangler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/round.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/round.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/shapes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,43 +53,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Calculator.executor": "Run",
-    "Python.Lesson 1.executor": "Run",
-    "Python.Task 1: Temperature.executor": "Run",
-    "Python.Temperature.executor": "Run",
-    "Python.advanced_calculator.executor": "Run",
-    "Python.bank_account.executor": "Run",
-    "Python.circle.executor": "Run",
-    "Python.count_time.executor": "Run",
-    "Python.decorator.executor": "Run",
-    "Python.departments.executor": "Run",
-    "Python.fibonacci.executor": "Run",
-    "Python.functions.executor": "Run",
-    "Python.generator.executor": "Run",
-    "Python.letters.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.names.executor": "Run",
-    "Python.none.executor": "Run",
-    "Python.polygon.executor": "Run",
-    "Python.rectangler.executor": "Run",
-    "Python.round.executor": "Run",
-    "Python.size.executor": "Run",
-    "Python.square_numbers.executor": "Run",
-    "Python.sum.executor": "Run",
-    "Python.task_1.executor": "Run",
-    "Python.task_2.executor": "Run",
-    "Python.task_6.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.time.executor": "Run",
-    "Python.train.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task 1: Temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Python.advanced_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_account.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.decorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.departments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.letters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.names.executor&quot;: &quot;Run&quot;,
+    &quot;Python.none.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polygon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.round.executor&quot;: &quot;Run&quot;,
+    &quot;Python.size.executor&quot;: &quot;Run&quot;,
+    &quot;Python.square_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.Lesson 1">
     <configuration name="Lesson 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Automation_QA" />
       <option name="ENV_FILES" value="" />
