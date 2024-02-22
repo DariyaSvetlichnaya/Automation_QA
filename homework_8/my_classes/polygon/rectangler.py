@@ -1,4 +1,4 @@
-from lesson_8.my_classes.polygon.polygon import Polygon
+from homework_8.my_classes.polygon.polygon import Polygon
 
 
 class Rectangle(Polygon):

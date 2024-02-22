@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="my classes">
-      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/my_classes/polygon/polygon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_9/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 2/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 2/temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/temperature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/shopping_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_3/shopping_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/intersection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/none.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/none.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 4/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_4/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/advanced_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/advanced_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_5/square_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/square_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/departments.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/departments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/departments.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/departments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/files_size.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/files_size.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/new_costs.json" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/new_costs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/size.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/size.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/count_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/count_time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/decorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/decorator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_7/generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/bank_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/bank_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/polygon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/polygon/rectangler.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/polygon/rectangler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/round/round.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/round/round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8/my_classes/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_8/my_classes/shapes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +114,7 @@
     "Python.task_6.executor": "Run",
     "Python.test.executor": "Run",
     "Python.time.executor": "Run",
+    "Python.train.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -491,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708381010427</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="my classes">
+      <option name="closed" value="true" />
+      <created>1708381329695</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1708381329695</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,6 +587,15 @@
           <url>file://$PROJECT_DIR$/Lesson 1.py</url>
           <line>36</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework_9/train.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework_9/train.py</url>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
