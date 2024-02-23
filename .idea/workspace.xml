@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="my classes">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="train">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_9/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework_9/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Lesson 1">
+  <component name="RunManager">
     <configuration name="Lesson 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Automation_QA" />
       <option name="ENV_FILES" value="" />
@@ -500,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708381329695</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="train">
+      <option name="closed" value="true" />
+      <created>1708640637879</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1708640637879</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -547,7 +556,8 @@
     <MESSAGE value="parent/child" />
     <MESSAGE value="bank_account" />
     <MESSAGE value="my classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="my classes" />
+    <MESSAGE value="train" />
+    <option name="LAST_COMMIT_MESSAGE" value="train" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -556,15 +566,6 @@
           <url>file://$PROJECT_DIR$/Lesson 1.py</url>
           <line>36</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/homework_9/train.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/homework_9/train.py</url>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
