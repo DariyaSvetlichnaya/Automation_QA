@@ -1,4 +1,4 @@
-from homework_8.my_classes.shapes import Shapes
+from hw_8.my_classes.shapes import Shapes
 
 
 class Round(Shapes):

@@ -1,4 +1,4 @@
-from homework_8.my_classes.round.round import Round
+from hw_8.my_classes.round.round import Round
 
 
 # Inheritance
