@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="train fix">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="change naming">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/adapter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,43 +54,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 1: Temperature.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Temperature.executor&quot;: &quot;Run&quot;,
-    &quot;Python.advanced_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bank_account.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.count_time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decorator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.departments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.letters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.names.executor&quot;: &quot;Run&quot;,
-    &quot;Python.none.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polygon.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rectangler.executor&quot;: &quot;Run&quot;,
-    &quot;Python.round.executor&quot;: &quot;Run&quot;,
-    &quot;Python.size.executor&quot;: &quot;Run&quot;,
-    &quot;Python.square_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Calculator.executor": "Run",
+    "Python.Lesson 1.executor": "Run",
+    "Python.Task 1: Temperature.executor": "Run",
+    "Python.Temperature.executor": "Run",
+    "Python.adapter.executor": "Run",
+    "Python.advanced_calculator.executor": "Run",
+    "Python.bank_account.executor": "Run",
+    "Python.circle.executor": "Run",
+    "Python.count_time.executor": "Run",
+    "Python.decorator.executor": "Run",
+    "Python.departments.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.generator.executor": "Run",
+    "Python.letters.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.names.executor": "Run",
+    "Python.none.executor": "Run",
+    "Python.polygon.executor": "Run",
+    "Python.rectangler.executor": "Run",
+    "Python.round.executor": "Run",
+    "Python.size.executor": "Run",
+    "Python.square_numbers.executor": "Run",
+    "Python.sum.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.time.executor": "Run",
+    "Python.train.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RunManager" selected="Python.Lesson 1">
+}]]></component>
+  <component name="RunManager">
     <configuration name="Lesson 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Automation_QA" />
       <option name="ENV_FILES" value="" />
@@ -516,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708683281269</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="change naming">
+      <option name="closed" value="true" />
+      <created>1709329544923</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1709329544923</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,7 +575,8 @@
     <MESSAGE value="my classes" />
     <MESSAGE value="train" />
     <MESSAGE value="train fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="train fix" />
+    <MESSAGE value="change naming" />
+    <option name="LAST_COMMIT_MESSAGE" value="change naming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
