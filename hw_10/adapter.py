@@ -14,6 +14,7 @@ class TextAdapter:
             for row in rows:
                 row = row.strip().split(',')
                 html_output += ''.join(f"<{h}>{r}</{h}>\n" for h, r in zip(header, row))
+                html_output += '.' * 20 + '\n'
 
         return html_output
 

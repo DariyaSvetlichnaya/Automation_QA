@@ -1,6 +1,6 @@
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/new_costs.json,1709
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/departments.json,1178
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/size.py,1289
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/sum.py,534
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/departments.py,1139
-/Users/dsvitlyc/PycharmProjects/Automation_QA/lesson_7/files_size.txt,435
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/new_costs.json,1709
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/departments.json,1178
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/size.py,1289
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/sum.py,534
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/departments.py,1139
+/Users/dsvitlyc/PycharmProjects/Automation_QA/hw_6/files_size.txt,435
