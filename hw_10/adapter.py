@@ -5,17 +5,14 @@ class TextAdapter:
         with open(file_path) as f:
             res = f.readlines()
 
-            header = [k.strip() for k in res[0].split(',')]
+        header = [k.strip() for k in res[0].split(',')]
+        rows = res[1:]
+        html_output = ''
 
-            rows = res[1:]
-
-            html_output = ''
-
-            for row in rows:
-                row = row.strip().split(',')
-                html_output += ''.join(f"<{h}>{r}</{h}>\n" for h, r in zip(header, row))
-                html_output += '.' * 35 + '\n'
-
+        for row in rows:
+            row = row.strip().split(',')
+            html_output += ''.join(f"<{h}>{r}</{h}>\n" for h, r in zip(header, row))
+            html_output += '.' * 35 + '\n'
         return html_output
 
 
