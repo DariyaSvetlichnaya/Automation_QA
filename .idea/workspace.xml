@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="adapter task">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/Automation_QA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automation_QA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw_10/adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/adapter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_10/proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/proxy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_10/team_salary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/team_salary.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +68,7 @@
     "Python.advanced_calculator.executor": "Run",
     "Python.bank_account.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.car.executor": "Run",
     "Python.circle.executor": "Run",
     "Python.count_time.executor": "Run",
     "Python.decorator.executor": "Run",
@@ -77,6 +81,7 @@
     "Python.names.executor": "Run",
     "Python.none.executor": "Run",
     "Python.polygon.executor": "Run",
+    "Python.proxy.executor": "Run",
     "Python.reader_writer.executor": "Run",
     "Python.rectangler.executor": "Run",
     "Python.round.executor": "Run",
@@ -90,9 +95,12 @@
     "Python.test.executor": "Run",
     "Python.time.executor": "Run",
     "Python.train.executor": "Run",
+    "Python.xx.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.splitter.proportion": "0.3167006"
   }
 }]]></component>
   <component name="RunManager">
@@ -161,14 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705184325891</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Lesson 1/Task 2">
-      <option name="closed" value="true" />
-      <created>1705588927088</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1705588927088</updated>
     </task>
     <task id="LOCAL-00006" summary="Lesson 1/Task 2">
       <option name="closed" value="true" />
@@ -554,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709505903708</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="fix">
+      <option name="closed" value="true" />
+      <created>1709506417825</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1709506417825</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -605,7 +613,8 @@
     <MESSAGE value="train fix" />
     <MESSAGE value="change naming" />
     <MESSAGE value="adapter task" />
-    <option name="LAST_COMMIT_MESSAGE" value="adapter task" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

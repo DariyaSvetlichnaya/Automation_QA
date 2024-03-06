@@ -2,22 +2,23 @@ class Reader:
     def __init__(self, file_path):
         self.__file_path = file_path
         self.data = None
+        self.previous_data = None
 
     def read_file(self):
         with open(self.__file_path, 'r') as f:
-            self.data = f.read()
+            new_data = f.read()
+            if new_data != self.data:
+                self.previous_data = self.data
+                self.data = new_data
 
 
 class Writer:
     def __init__(self, file_path):
         self.__file_path = file_path
-        self.last_written_value = None
 
-    def write_to_file(self, data):
-        if data != self.last_written_value:
-            with open(self.__file_path, 'a') as f:
-                f.write(data + '\n')
-                self.last_written_value = data
+    def write_to_file(self, row):
+        with open(self.__file_path, 'a') as f:
+            f.write(row + '\n')
 
 
 class ProxyReaderWriter:
@@ -26,27 +27,31 @@ class ProxyReaderWriter:
         self.reader = Reader(file_path)
         self.writer = Writer(file_path)
         self.data = None
+        self.last_written_row = None
 
     def read(self):
+        if self.data is not None:
+            return self.data
         self.reader.read_file()
         self.data = self.reader.data
+        return self.data if self.reader.data != self.reader.previous_data else None
 
     def write(self, row):
-        last_value = self.reader.data.strip().split('\n')[-1] if self.reader.data else None
-        if row != last_value:
+        if row != self.last_written_row:
             self.writer.write_to_file(row)
-            self.read()
+            self.last_written_row = row
 
 
 proxy_rw = ProxyReaderWriter(file_path='team_salary.txt')
 
-proxy_rw.read()
-proxy_rw.read()
-proxy_rw.write('aa')
-proxy_rw.read()
-proxy_rw.write('aa')
-proxy_rw.write('ab')
-proxy_rw.read()
-proxy_rw.write('aa')
+# proxy_rw.read()
+# proxy_rw.read()
+# proxy_rw.write('aa')
+# proxy_rw.read()
+# proxy_rw.write('aa')
+# proxy_rw.read()
+# proxy_rw.write('ab')
+# proxy_rw.read()
+# proxy_rw.write('aa')
 
-print(proxy_rw.data)
+

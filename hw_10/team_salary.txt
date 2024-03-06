@@ -3,4 +3,4 @@ Leo,Moracchioli,50,5000
 Di,Sacramento,35,3000
 Nick,Morton,20,4500
 Katrin,Bennet,50,7000
-Lemmy,Kilmister,83,6000
+Lemmy,Kilmister,83,600
