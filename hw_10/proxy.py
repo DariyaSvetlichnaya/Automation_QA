@@ -28,7 +28,7 @@ class ProxyReaderWriter:
 
     def read(self):
         if self.data is not None and self.data == self.last_read_data:
-            return  # File has not changed since last read, so no need to read again
+            return
 
         self.reader.read_file()
         self.data = self.reader.data
@@ -45,8 +45,8 @@ proxy_rw = ProxyReaderWriter(file_path='team_salary.txt')
 
 # proxy_rw.read()
 # proxy_rw.read()
-proxy_rw.write('aa')
-proxy_rw.write('aa')
+# proxy_rw.write('aa')
+# proxy_rw.write('aa')
 # proxy_rw.read()
 # proxy_rw.write('aa')
 # proxy_rw.read()
