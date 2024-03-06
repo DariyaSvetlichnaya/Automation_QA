@@ -2,14 +2,10 @@ class Reader:
     def __init__(self, file_path):
         self.__file_path = file_path
         self.data = None
-        self.previous_data = None
 
     def read_file(self):
         with open(self.__file_path, 'r') as f:
-            new_data = f.read()
-            if new_data != self.data:
-                self.previous_data = self.data
-                self.data = new_data
+            self.data = f.read()
 
 
 class Writer:
@@ -27,14 +23,17 @@ class ProxyReaderWriter:
         self.reader = Reader(file_path)
         self.writer = Writer(file_path)
         self.data = None
+        self.last_read_data = None
         self.last_written_row = None
 
     def read(self):
-        if self.data is not None:
-            return self.data
+        if self.data is not None and self.data == self.last_read_data:
+            return  # File has not changed since last read, so no need to read again
+
         self.reader.read_file()
         self.data = self.reader.data
-        return self.data if self.reader.data != self.reader.previous_data else None
+        self.last_read_data = self.data
+        return self.data
 
     def write(self, row):
         if row != self.last_written_row:
@@ -46,12 +45,11 @@ proxy_rw = ProxyReaderWriter(file_path='team_salary.txt')
 
 # proxy_rw.read()
 # proxy_rw.read()
-# proxy_rw.write('aa')
+proxy_rw.write('aa')
+proxy_rw.write('aa')
 # proxy_rw.read()
 # proxy_rw.write('aa')
 # proxy_rw.read()
 # proxy_rw.write('ab')
 # proxy_rw.read()
 # proxy_rw.write('aa')
-
-

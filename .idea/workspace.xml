@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="fix">
-      <change beforePath="$PROJECT_DIR$/.idea/Automation_QA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Automation_QA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_10/proxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/proxy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hw_10/team_salary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hw_10/team_salary.txt" afterDir="false" />
@@ -169,14 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705184325891</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Lesson 1/Task 2">
-      <option name="closed" value="true" />
-      <created>1705589124541</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1705589124541</updated>
     </task>
     <task id="LOCAL-00007" summary="Lesson 1/Task 2">
       <option name="closed" value="true" />
@@ -562,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709506417825</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fix">
+      <option name="closed" value="true" />
+      <created>1709754692616</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1709754692616</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -576,7 +573,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feature_1" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
