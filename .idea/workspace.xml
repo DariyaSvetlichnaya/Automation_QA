@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="new proxy">
+    <list default="true" id="a0e597f9-675e-49ad-8f63-c21dc92957b1" name="Changes" comment="xpath">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,14 +164,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705184325891</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Lesson 1/Task 2">
-      <option name="closed" value="true" />
-      <created>1705593854980</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1705593854980</updated>
     </task>
     <task id="LOCAL-00010" summary="test">
       <option name="closed" value="true" />
@@ -557,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709763455934</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="xpath">
+      <option name="closed" value="true" />
+      <created>1710108897235</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1710108897235</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Homework for the Lesson 1 with changes" />
     <MESSAGE value="Lesson 1/Task 1" />
     <MESSAGE value="Lesson 1/Task 2" />
     <MESSAGE value="test" />
@@ -609,7 +608,8 @@
     <MESSAGE value="adapter task" />
     <MESSAGE value="fix" />
     <MESSAGE value="new proxy" />
-    <option name="LAST_COMMIT_MESSAGE" value="new proxy" />
+    <MESSAGE value="xpath" />
+    <option name="LAST_COMMIT_MESSAGE" value="xpath" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
